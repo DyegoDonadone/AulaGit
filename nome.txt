@@ -1,3 +1,7 @@
 Dyego B. S. Donadone
 
+<<<<<<< HEAD
 Dyego
+=======
+teste commit -m 
+>>>>>>> 'release'

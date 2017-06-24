@@ -1,6 +1,10 @@
 Dyego B. S. Donadone 
+<<<<<<< HEAD
 idade: 25 
 Marcio ALves
-idade : 42
+idade : 42 anos
+=======
+idade: 25 / Alfa
+>>>>>>> dfd743942cf31ea920ba069c04168e9646feece3
 
 

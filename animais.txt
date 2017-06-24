@@ -1,2 +1,7 @@
+
+
+eeee	eeee	eee
+
 mamiferos:[cachorro,Gato, Cavalo];
+
 

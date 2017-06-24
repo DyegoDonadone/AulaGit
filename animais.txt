@@ -1,1 +1,2 @@
-Cachorro Gato Cavalo
+mamiferos:[cachorro,Gato, Cavalo];
+
